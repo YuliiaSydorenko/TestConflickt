@@ -1,7 +1,8 @@
 public class TestConflickt {
     public
     void  testA (){
-        //TODO Implement testA
+        System.out.println("qwerty");
+
 
     }
 
